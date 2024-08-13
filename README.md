@@ -49,7 +49,7 @@ python websocket_client.py
 ```
 
 3. **Enter the Required Information**
- * `Origin:` _The origin of the URL in question._ (e.g., `https://app.my-app.com')  
+ * `Origin:` _The origin of the URL in question._ (e.g., `https://app.my-app.com`)  
  * `URL:` _The full URL with the access token._ (e.g., `wss://app.my-app.com/documents/abc123/ws?accessToken=xyz123`)  
 
 4. **Follow On-Screen Instructions**
