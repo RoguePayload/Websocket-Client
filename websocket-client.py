@@ -16,7 +16,8 @@ socket.socket = socks.socksocket
 # Define application info
 app_name = "WebSocket Client"
 app_description = "A robust WebSocket client with Tor support for anonymity"
-app_developer = "Developed by [Your Name]"
+app_developer = "Developed by Dr. Aubrey W. Love II (AKA RoguePayload)"
+app_company = "DarkMatrix Cyber Solutions LLC (darkmcs.com)"
 
 def clear_screen():
     """Clear the terminal screen."""
@@ -57,6 +58,7 @@ def main():
     print(Fore.GREEN + app_name)
     print(Fore.BLUE + app_description)
     print(Fore.YELLOW + app_developer)
+    print(Fore.YELLOW + app_company)
 
     # Get user input for origin and URL
     origin, url = get_user_input()
