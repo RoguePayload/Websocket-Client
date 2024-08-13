@@ -1,9 +1,9 @@
 # WebSocket Client with Tor Support
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/repo-name)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/repo-name)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/repo-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/repo-name?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/RoguePayload/Websocket-Client)
+![GitHub contributors](https://img.shields.io/github/contributors/RoguePayload/Websocket-Client)
+![GitHub stars](https://img.shields.io/github/stars/RoguePayload/Websocket-Client?style=social)
+![GitHub forks](https://img.shields.io/github/forks/RoguePayload/Websocket-Client?style=social)
 
 A robust WebSocket client that includes Tor support for anonymity. This client allows users to establish secure and anonymous WebSocket connections with customizable headers and user-agent strings.
 
